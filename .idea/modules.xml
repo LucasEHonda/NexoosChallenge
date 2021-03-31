@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Apibank/Apibank.iml" filepath="$PROJECT_DIR$/Apibank/Apibank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApiBank/Apibank.iml" filepath="$PROJECT_DIR$/ApiBank/Apibank.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/projeto02.iml" filepath="$PROJECT_DIR$/.idea/projeto02.iml" />
     </modules>
   </component>
